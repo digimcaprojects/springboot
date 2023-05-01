@@ -1,0 +1,250 @@
+https://careers.fisglobal.com/us/en/job/JR0243519/Java-Developer
+https://www.naukri.com/job-listings-immediate-hiring-java-developer-aspire-systems-kochi-cochin-chennai-bangalore-bengaluru-5-to-10-years-220223004019?src=jobsearchDesk&sid=16813712125852461&xp=1&px=1
+
+JR0243519
+7 to 10 Years of experience in Core Java, Spring, Spring boot, Microservices, REST, SQL
+
+https://www.udemy.com/course/building-real-time-rest-apis-with-spring-boot/learn/lecture/35374342#overview
+
+Telecom NMS/EMS exposure
+
+7+ years of experience • Micro-services development using Spring boot • Technical Stack (Back End): Core Java, Java , Spring boot, Kafka, REST APIs,Kibana • Technical Tools: Confluence/Jira/Bitbucket or Git, CI / CD (Maven, Git, Jenkins), Eclipse or Intelij IDEA
+
+
+• Micro-services development using Spring boot
+• Technical Stack (Back End): Core Java, Java , Spring boot, Kafka, REST APIs,
+• Technical Tools: Confluence/Jira/Bitbucket or Git, CI / CD (Maven, Git, Jenkins), Eclipse or Intelij IDEA
+
+
+5+ years Java server-side development experience with decent understanding of core design patterns.
+Hands on experience in Java 8 and above
+Experience in SpringBoot and Micro services is required
+Understanding distributed application environments
+Experience with SQL databases
+Knowledge of software best practices, like Test-Driven Development (TDD) and Continuous Integration (CI)
+Knowledge of consuming and providing REST APIs
+Knowledge of Unix/Linux environments is plus
+Knowledge of Agile/Scrum development methodologies is a plus
+Knowledge of asynchronous messaging middleware is a plus
+Knowledge of retail banking is a plus
+Cloud knowledge a big plus (AWS/GCP) ? (Kubernetes/Docker)
+Be nice, respectful, able to work in a team
+
+--
+
+5+ years Java server-side development experience with decent understanding of core design patterns.
+Hands on experience in Java 8 and above
+Experience in SpringBoot and Micro services is required
+Understanding distributed application environments
+Experience with SQL databases
+Knowledge of software best practices, like Test-Driven Development (TDD) and Continuous Integration (CI)
+Knowledge of consuming and providing REST APIs
+Knowledge of Unix/Linux environments is plus
+Knowledge of Agile/Scrum development methodologies is a plus
+Knowledge of asynchronous messaging middleware is a plus
+Knowledge of retail banking is a plus
+Cloud knowledge a big plus (AWS/GCP) ? (Kubernetes/Docker)
+Be nice, respectful, able to work in a team
+
+
+majojames95@gmail.com
+majo@1995
+---------
+
+imutable
+can u create non mutable , getter immutable  clone
+multi thread
+hi archi thread 
+what is use of wait and sleep
+use of join
+how do you control thread
+yield method
+concurrent hashmap
+diff concurrent and hash table
+what is garbage collections
+am creating object using new operator -- > where will be store
+heap memory also have different parts
+new features in java 8 
+functional interface, lamda expressions, streams api and optional
+default method interface
+singleton class
+take care of whenever you are creation singleton class
+searilaization and deserialization
+design pattern- creational , singleton prototype, abstract factory
+factory design pattern
+spring scopes
+dependency injection
+how many ways of do di
+
+on interface, class a,b,c implement interface I, define polymorphism di , how can achieve
+spring support polymorphism ?
+spring security
+advantage of microservice
+monolithic applications
+how will you acheive micro service
+docker commends
+kafka broker
+junit test case-- power mock and mock
+second largeset number in list
+convert list to map
+methoda referencing
+optional
+repositiry
+executor
+duplicate remove entry in array
+reverse single linklist
+double linklist
+encapsulation in java
+abstrct class
+inhertience
+type of inheritance
+why multipe inher not support
+metaspace in java8
+multi thread, life cycle of thread
+
+-------------
+
+
+Share 
+Job Description - Spl'st, Development (-)
+ 
+Spl'st, Development - (2300000764)
+ 
+Job: Technology
+Primary Location: Asia-India-Chennai
+Schedule: Full-time
+Employee Status: Permanent
+Posting Date: 20/Jan/2023, 5:36:27 PM
+Unposting Date: Ongoing
+ 
+Role Responsibilities 
+
+This role in Client Coverage Technology is within Click here to enter Department details  for the position of Lead Developer/Senior Developer/Developer. 
+
+Lead Developer (5 years’ experience): Candidate should have following Skills 
+
+Good programming and debugging skills
+Strong analytical and problem-solving skills
+Ability to adapt to new technologies and frameworks.
+Good understanding of software development lifecycle.
+Understanding of coding standards and design patterns
+Hands on experience on java/J2EE, Spring boot, MQ-JMS/ActiveMQ and REACT
+Hands on experience on CI/CD tools like Maven and Jenkins.
+Good understanding of cloud infrastructure, application integration using web services and SOA
+Senior Developer(6 years’ experience): Candidate should have following Skills 
+
+Good programming and debugging skills
+Strong analytical and problem-solving skills
+Ability to adapt to new technologies and frameworks.
+Good understanding of software development lifecycle.
+Good understanding of coding standards and design patterns
+Hands on experience on java/J2EE, Spring boot, MQ-JMS/ActiveMQ and REACT
+Hands on experience on CI/CD tools like Maven and Jenkins.
+Good understanding of cloud infrastructure, application integration using web services and SOA
+Good understanding of IDL Definition using tools like RAML or Swagger
+Good understanding of Assembly Development – using frameworks like Apache Camel or Node.js
+Hands experience and Knowledge of microservices architecture
+Strong in Oracle or SQL Server PL/SQL development and designing data model.
+Developer(7 to 9 years’ experience): Candidate should have following Skills 
+
+Good programming and debugging skills
+Strong analytical and problem-solving skills
+Ability to adapt to new technologies and frameworks.
+Good understanding of software development lifecycle.
+Good understanding of coding standards and design patterns
+Hands on experience on java/J2EE, Spring boot, MQ-JMS/ActiveMQ and REACT
+Hands on experience on CI/CD tools like Maven and Jenkins.
+Good understanding of cloud infrastructure, application integration using web services and SOA
+Good understanding of IDL Definition using tools like RAML or Swagger
+Good understanding of Assembly Development – using frameworks like Apache Camel or Node.js
+Hands experience and Knowledge of microservices architecture
+Strong in Oracle or SQL Server PL/SQL development and designing data model.
+Hands on experience in solution design and various architecture standards
+Strong knowledge in domain-driven design, design patterns and enterprise integration patterns.
+Hands on experience in implementing software for performance, scalability and other non-functional requirements
+Strong experience in agile methodologies and test-driven development.
+Hands on experience in cloud adaption in accordance with Cloud Service models of IaaS, PaaS and SaaS.
+Our Ideal Candidate
+
+Qualifications
+
+Bachelor’s or Master’s degree in Computer Science, Engineering, Computer Information
+AWS/Azure certification
+Role Specific Competencies
+
+Data structure and Algorithms
+Java/J2EE
+Spring, Hibernate, Aspects and Apache Libraries (Camel/ActiveMQ/Commons)
+SpringBoot
+REACT
+Web Service (SOAP/REST/GRPC) or Messaging using JMS, Kafka.
+JEE specifications like JAX-RS, JAX-WS, JPA
+Oracle, SQL, BPM products like jBPM or Cammunda etc.
+Jenkins/Go-CD, Git/Stash, JIRA, Maven, NodeJS
+AWS DevOps tools like Terraforms/AMI Bakery, Ansible, containers, Kubernetes or OpenShift and service Mesh.
+JUnit/QUnit
+Application servers/containers JBoss Fuse, Tomcat etc
+Linux/Unix environments
+About Standard Chartered 
+-------------------------
+Spl'st, Development - (2300006946)
+ 
+Job: Technology
+Primary Location: Asia-India-Chennai
+Schedule: Full-time
+Employee Status: Permanent
+Posting Date: 13/Apr/2023, 5:50:41 AM
+Unposting Date: Ongoing
+ 
+Role Responsibilities 
+
+Description of the Role
+
+This role in Client Coverage Technology is within for the position of Lead Developer. 
+
+Preferred Candidate Profile
+
+Candidate should have following Skills 
+
+Good programming and debugging skills
+Strong analytical and problem-solving skills
+Ability to adapt to new technologies and frameworks.
+Good understanding of software development lifecycle.
+Good understanding of coding standards and design patterns
+Hands on experience on Python Developer, Python framework (like Django, Flask or Pyramid), object-relational mapping (ORM), front-end technologies (like JavaScript and HTML5)
+Hands on experience on CI/CD tools like Maven and Jenkins.
+Good understanding of cloud infrastructure, application integration using web services and SOA
+Good understanding of IDL Definition using tools like RAML or Swagger
+Good understanding of Assembly Development – using frameworks like Apache Camel or Node.js
+Hands experience and Knowledge of microservices architecture
+Strong in Oracle or SQL Server PL/SQL development and designing data model.
+Hands on experience in solution design and various architecture standards
+Strong knowledge in domain-driven design, design patterns and enterprise integration patterns.
+Hands on experience in implementing software for performance, scalability and other non-functional requirements
+Strong experience in agile methodologies and test-driven development.
+Hands on experience in cloud adaption in accordance with Cloud Service models of IaaS, PaaS and SaaS.
+ Our Ideal Candidate 
+
+Bachelor’s or Master’s degree in Computer Science, Engineering, Computer Information
+AWS/Azure certification
+ 
+
+ROLE SPECIFIC TECHNICAL COMPETENCIES
+
+Technical Competencies    Lead Developer    Senior Developer    Developer
+Data structure and Algorithms     Core
+Python    Core
+Python framework(like Django, Flask or Pyramid)    Core
+REACT, JavaScript and HTML5    Core
+Web Service (SOAP/REST/GRPC) or Messaging using JMS, Kafka.    Core
+JEE specifications like JAX-RS, JAX-WS, JPA    Core
+Oracle, SQL, BPM products like jBPM or Cammunda etc.    Core
+Jenkins/Go-CD, Git/Stash, JIRA, Maven, NodeJS    Core
+AWS DevOps tools like Terraforms/AMI Bakery, Ansible, containers, Kubernetes or OpenShift and service Mesh.    Core
+JUnit/QUnit    Core
+Application servers/containers JBoss Fuse, Tomcat etc    Core
+Linux/Unix environments    Core
+About Standard Chartered 
+
+---------------
+https://github.com/bezkoder/spring-boot-spring-security-jwt-authentication
